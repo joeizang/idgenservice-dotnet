@@ -1,0 +1,7 @@
+*.db
+*.sqlite
+/bin
+/obj
+/.vs
+/.idea
+.DS_Store

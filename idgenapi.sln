@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "idgenapi", "idgenapi.csproj", "{0B978EFD-6EE0-4A52-B020-B9066F016F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B978EFD-6EE0-4A52-B020-B9066F016F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B978EFD-6EE0-4A52-B020-B9066F016F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B978EFD-6EE0-4A52-B020-B9066F016F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B978EFD-6EE0-4A52-B020-B9066F016F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A252BA-D409-4AAF-873C-8E9C876197B6}
+	EndGlobalSection
+EndGlobal
